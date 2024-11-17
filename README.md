@@ -2,7 +2,7 @@
 
 A simple and interactive Python CLI game where you guess a randomly generated number between 1 and 100. Test your luck and logic with two levels of difficulty!  
 
-[Number Guessing Game](images/image.png "Number Guessing Game")
+![Number Guessing Game](images/image.png "Number Guessing Game")
 
 ---
 
