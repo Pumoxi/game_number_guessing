@@ -1,5 +1,5 @@
 import random
-from art import logo
+from game_number_guessing.art import logo
 
 # Define Global Variable
 

@@ -73,8 +73,8 @@ A simple and interactive Python CLI game where you guess a randomly generated nu
 ## Customization
 
 You can easily modify the game by updating the following variables in the code:
-	•	EASY_ATTEMPTS for the number of attempts in easy mode.
-	•	HARD_ATTEMPTS for the number of attempts in hard mode.
+ - EASY_ATTEMPTS for the number of attempts in easy mode.
+ - HARD_ATTEMPTS for the number of attempts in hard mode.
 
 ## Acknowledgments
 
