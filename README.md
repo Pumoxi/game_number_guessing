@@ -75,3 +75,7 @@ A simple and interactive Python CLI game where you guess a randomly generated nu
 You can easily modify the game by updating the following variables in the code:
 	•	EASY_ATTEMPTS for the number of attempts in easy mode.
 	•	HARD_ATTEMPTS for the number of attempts in hard mode.
+
+## Acknowledgments
+
+- The development of this project was inspired by course “Master Python by building 100 projects in 100 days”, Dr. Angela Yu.
